@@ -1,5 +1,5 @@
-input=shaders
-output=assets/shaders
+input=shaders/
+output=assets/shaders/
 
 rm -r $output/*
 
